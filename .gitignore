@@ -1,0 +1,4 @@
+*.csv
+!sample_submission.csv
+!submission.csv
+.ipynb_checkpoints/
